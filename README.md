@@ -1,4 +1,7 @@
 # flight-delays
+https://docs.google.com/spreadsheets/d/1oO-Z05VylAN9edyiyW-FX1KKDZUYnBzMNPWVsxGyU5k/edit#gid=0
+
+(below chart imported on 26th of June)
 | Desired field                              | Available | Source       |
 |--------------------------------------------|-----------|--------------|
 | Delay yes / no                             | Yes       | Schiphol API |
